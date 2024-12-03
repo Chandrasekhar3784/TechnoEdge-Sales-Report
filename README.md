@@ -28,3 +28,39 @@ The TechnoEdge Sales Analysis Report is an interactive Power BI dashboard that a
 - How do total sales compare with total profit by year?
 - How do total sales vs. total profits vary by segment?
 - How do total sales vs. total profits vary by sub-category?
+
+## Dashboard Interaction
+
+- Dashboard File  <a href="https://github.com/Chandrasekhar3784/TechnoEdge-Sales-Report/blob/main/Techoedge%20Sales%20Report.pbix">File</a>
+- Home Page <a href="https://github.com/Chandrasekhar3784/TechnoEdge-Sales-Report/blob/main/Screenshot%202024-12-03%20104640.png">Image</a>
+- Summary Botton <a href="https://github.com/Chandrasekhar3784/TechnoEdge-Sales-Report/blob/main/Screenshot%202024-12-03%20104709.png">Image</a>
+- Customer Botton <a href="https://github.com/Chandrasekhar3784/TechnoEdge-Sales-Report/blob/main/Screenshot%202024-12-03%20104730.png">Image</a>
+- Products Botton <a href="https://github.com/Chandrasekhar3784/TechnoEdge-Sales-Report/blob/main/Screenshot%202024-12-03%20105248.png">Image</a>
+
+## Step by step Process
+### Data Preparation:
+
+- sales data and profits datasets  imported into Power BI.
+- Using Power Query for cleaning and transforming data. For instance, it handles missing values, creates calculated columns, and filters datasets.
+- Relationships between tables are properly established in the data model.
+
+### Visual Creation:
+
+- Each Botton must have the following visuals:
+- Summary: Cards, Pie Chart, Bar Charts, and Line Chart for trends
+- Customer: Cards, Table, Pie Chart, and Bar Charts for customer details.
+- Product: Clustered Bar Chart, Line Chart and Scatter Plots of Profitability & Sales Trending.
+
+### Interactivity & Navigation
+
+- All pages include filters with slicers in respect to State, Ship Mode, Segment, SubCategory and Year.
+- Apply Bookmark & Selection Pane to be used as page level navigation- like Summary, Customer and Product.
+- Add a set of buttons, like the "Start" or navigation arrow buttons for seamless user navigation
+
+### Dashboard Customization & Publishing:
+
+- Use themes, logos and background in making an attractive dashboard design.
+- Test all the interactions and filters with smooth functionality.
+- Publish the dashboard to the Power BI Service.
+  
+## Dashboard Image
