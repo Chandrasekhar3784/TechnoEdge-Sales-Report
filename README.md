@@ -64,3 +64,19 @@ The TechnoEdge Sales Analysis Report is an interactive Power BI dashboard that a
 - Publish the dashboard to the Power BI Service.
   
 ## Dashboard Image
+
+![Screenshot 2024-12-03 104640](https://github.com/user-attachments/assets/8d763951-986f-444e-be72-be17105c7275)
+![Screenshot 2024-12-03 104709](https://github.com/user-attachments/assets/2e336a00-dd61-47b3-851d-9f332749dfeb)
+![Screenshot 2024-12-03 104730](https://github.com/user-attachments/assets/1634c668-d357-407f-b4fc-ddafb8778872)
+![Screenshot 2024-12-03 105248](https://github.com/user-attachments/assets/e053253f-e04e-42c2-9b63-074f3e3fc97a)
+
+## Project Insights
+- Sales were at 58.1K, and Office Supplies had the most orders, which was at 58.8%.
+- Alan Dominguez is the top customer with 250 orders, which shows the importance of individual high-value customers.
+- Their best-selling product is the Boombox, and Office Supplies dominates their profit margins.
+- Net profit rose significantly mid-2020, which seems to be a seasonal or campaign-driven increase in sales.
+
+## Final Conclusion:
+
+The TechnoEdge Sales Analysis Dashboard effectively captures key business metrics such as sales, profit, and customer behavior. The visuals and interactivity enable quick insights into high-performing products, loyal customers, and growth trends. Leveraging bookmarks and selection options enhances navigation, making it user-friendly. This report is a valuable tool for driving strategic decisions in sales and inventory management.
+
